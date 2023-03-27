@@ -1,4 +1,4 @@
-// Global Selectors
+// Global Variables
 
 const container = document.querySelector(".container");
 const weatherBox = document.querySelector(".weather-box");
